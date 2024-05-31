@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 import 'dart:async';
-
 import 'package:agora_rtm/agora_rtm.dart';
 import 'package:test_project/appId.dart';
 import 'package:test_project/logs.dart';
